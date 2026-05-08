@@ -36,7 +36,7 @@ docker run --name chat-db \
 
 Luego agregá también en tu `.env`:
 
-```
+```'
 DATABASE_URL=postgresql://chat_user:secret@localhost:5432/chatdb
 ```
 
